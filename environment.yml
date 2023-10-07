@@ -1,0 +1,6 @@
+name: bootcamp-hypothesis-test-app-store
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /Users/chironimus/anaconda3/envs/bootcamp-hypothesis-test-app-store
